@@ -1,1 +1,5 @@
-
+CREATE DATABASE HARSHINI_DB;
+USE HARSHINI_DB;
+CREATE TABLE Dept(DepTID number(5) primary key,DeptName vachar(20,HOD varchar(20));
+DESC depT;
+  SELECT *FROM HARSHINI_DB;
